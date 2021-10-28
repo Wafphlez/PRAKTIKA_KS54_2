@@ -48,10 +48,15 @@
     <Compile Include="Lesson 1\Lesson1_Task2.cs" />
     <Compile Include="Lesson 1\Lesson1_Task3.cs" />
     <Compile Include="Lesson 2\Lesson2_Task10.cs" />
+    <Compile Include="Lesson 2\Lesson2_Task11.cs" />
     <Compile Include="Lesson 2\Lesson2_Task2.cs" />
+    <Compile Include="Lesson 2\Lesson2_Task3.cs" />
     <Compile Include="Lesson 2\Lesson2_Task4.cs" />
+    <Compile Include="Lesson 2\Lesson2_Task5.cs" />
     <Compile Include="Lesson 2\Lesson2_Task6.cs" />
+    <Compile Include="Lesson 2\Lesson2_Task7.cs" />
     <Compile Include="Lesson 2\Lesson2_Task8.cs" />
+    <Compile Include="Lesson 2\Lesson2_Task9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Lesson 1\Lesson1_Task4.cs" />
