@@ -1,0 +1,7 @@
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\bin\Debug\PRAKTIKA_KS54_2.exe.config
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\bin\Debug\PRAKTIKA_KS54_2.exe
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\bin\Debug\PRAKTIKA_KS54_2.pdb
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\obj\Debug\PRAKTIKA_KS54_2.csprojAssemblyReference.cache
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\obj\Debug\PRAKTIKA_KS54_2.csproj.CoreCompileInputs.cache
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\obj\Debug\PRAKTIKA_KS54_2.exe
+C:\Users\wafph\source\repos\PRAKTIKA_KS54_2\PRAKTIKA_KS54_2\obj\Debug\PRAKTIKA_KS54_2.pdb
