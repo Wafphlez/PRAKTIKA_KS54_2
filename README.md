@@ -1,5 +1,4 @@
-# Практика <img style="color: white" width="171" height="30" src="https://www.ks54.ru/wp-content/uploads/2020/03/ks54-named-c-left.png">
-
+# Практика <span style="color: white"> <img width="171" height="30" src="https://www.ks54.ru/wp-content/uploads/2020/03/ks54-named-c-left.png"> </span>
 <p align="center">
   <img width="500" height="374" src="https://media.giphy.com/media/hnbnAjGR8TGh34oG8j/giphy.gif">
 </p>
