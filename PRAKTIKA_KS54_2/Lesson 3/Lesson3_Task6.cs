@@ -10,14 +10,14 @@ namespace PRAKTIKA_KS54_2.Lesson_3
     {
         public static void Start()
         {
-            MyClass<int> myClass1 = new MyClass<int>();
-            MyClass<string> myClass2 = new MyClass<string>();
-            MyClass<bool> myClass3 = new MyClass<bool>();
+            MyClass<int> myClass1 = new MyClass<int>() { myVar = 1 };
+            MyClass<int> myClass2 = new MyClass<int>() { myVar = 2 };
+            MyClass<int> myClass3 = new MyClass<int>() { myVar = 3 };
 
-            Type d1 = typeof(MyClass<>);
+            myClass2.myClass = myClass3;
+            myClass1.myClass = myClass2;
 
-            //MyClass<>.GenerateChain(myClass1, myClass2, myClass3);
-            //ERROR;
+            myClass1.Metod();
         }
 
 
@@ -27,12 +27,11 @@ namespace PRAKTIKA_KS54_2.Lesson_3
 
             public MyClass<T> myClass;
 
-            public static void GenerateChain(params MyClass<T>[] myClasses)
+            public void Metod()
             {
-                for (int i = 0; i < myClasses.Length; i++)
-                {
-                    myClasses[i].myClass = myClasses[i + 1];
-                }
+                Console.WriteLine(myVar);
+
+                if (myClass != null) myClass.Metod();
             }
         }
     }
