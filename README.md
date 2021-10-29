@@ -4,8 +4,7 @@
 <p align="center">
   <img width="500" height="374" src="https://media.giphy.com/media/hnbnAjGR8TGh34oG8j/giphy.gif">
 </p>
-```sh
-```
+
 ## Помогло?
 >Не ну напишите спасибо хоть.
 
