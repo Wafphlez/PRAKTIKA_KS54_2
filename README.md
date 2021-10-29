@@ -1,4 +1,4 @@
-# Практика <span style="color: white"> qweqwe <img width="171" height="30" src="https://www.ks54.ru/wp-content/uploads/2020/03/ks54-named-c-left.png"> </span>
+# Практика в Колледже Связи №54!
 <p align="center">
   <img width="500" height="374" src="https://media.giphy.com/media/hnbnAjGR8TGh34oG8j/giphy.gif">
 </p>
