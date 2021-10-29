@@ -19,6 +19,9 @@
     <a href="https://github.com/Wafphlez/PRAKTIKA_KS54_2/issues">Request Feature</a>
   </p>
 </p>
+
 ## Почему я люблю колледж?
+
 😭
+
 Нет.
