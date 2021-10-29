@@ -1,5 +1,6 @@
 ﻿
 using PRAKTIKA_KS54_2.Lesson_2;
+using PRAKTIKA_KS54_2.Lesson_3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +14,7 @@ namespace PRAKTIKA_KS54_2
     {
         private static void Main(string[] args)
         {
-            Lesson2_Task10.Start();
+            Lesson3_Task11.Start();
 
             Console.ReadKey();
         }
