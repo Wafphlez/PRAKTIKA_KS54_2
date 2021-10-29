@@ -17,14 +17,13 @@
 [twitter-shield]: https://img.shields.io/twitter/follow/wafphlez?label=My%20Twitter&style=social
 [twitter-url]: (https://twitter.com/wafphlez)
 #
-![Wafphlez](https://i.imgur.com/CEsTydk.png)
+![Alt Text](https://media.giphy.com/media/hnbnAjGR8TGh34oG8j/giphy.gif)
 ```sh
 ```
 ## Помогло?
 >Не ну напишите спасибо хоть.
 
-![Alt Text](https://media.giphy.com/media/hnbnAjGR8TGh34oG8j/giphy.gif)
-
+![Wafphlez](https://i.imgur.com/CEsTydk.png)
 ## Почему я люблю колледж?
 😭
 Нет.
